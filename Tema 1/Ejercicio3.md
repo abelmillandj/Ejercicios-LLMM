@@ -4,4 +4,4 @@ A todos nos ha ocurrido alguna vez que hemos ampliado una imagen y se ha “pixe
 
 Los archivos SVG (Scalable Vector Graphics), Gráficos Vectoriales Redimensionables, son un formato de gráficos vectoriales bidimensionales, tanto estáticos como animados, en formato XML. Son un estándar abierto desarrollado a partir del 1999 por el W3C. Este formato se convirtió en una recomendación del W3C en septiembre de 2001, con lo que todos los navegadores fueron renovándose para poder soportar este formato. Es un formato poco conocido para mucha gente pero muy útil para utilizarlo, por ejemplo, en entornos web. La mayoría de la gente utiliza archivos de mapas de bits como JPG. O PNG y GIF si se necesita un fondo transparente o una imagen animada.
 
-[Imagen](1200px-SVG_logo.svg (1).png)
+![Imagen](Tema 1/Archivos/1200px-SVG_logo.svg (1).png)
