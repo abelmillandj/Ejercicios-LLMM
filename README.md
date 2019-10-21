@@ -9,5 +9,5 @@ Ejercicio 2 | Crea un documento xml que incluya información sobre un par de lib
 <strong> TEMA 2 </strong>
 [Ejercicio 1](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%201.md) | Crea una página con el texto facilitado e incluye las etiquetas necesarias para:
 [Ejercicio 2](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%202.md) | Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto. La página debe presentar el aspecto mostrado a continuación
-[Ejercicio 3] | Usa el texto mostrado y dale el formato siguiendo las indicaciones:
+[Ejercicio 3](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%203.md) | Usa el texto mostrado y dale el formato siguiendo las indicaciones:
 
