@@ -11,4 +11,8 @@ Ejercicios | Descripción
 [Ejercicio 2](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%202.md) | Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto. La página debe presentar el aspecto mostrado a continuación
 [Ejercicio 3](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%203.md) | Usa el texto mostrado y dale el formato siguiendo las indicaciones:
 [Ejercicio 5](https://github.com/abelmillandj/Ejercicios-LLMM/tree/master/Tema%202/ejerciciosllmm/tema2/ejercicio5/misitio.com) | Crear página web con sus rutas.
+[Ejercicio 6](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%206%20tema%202.html) | -
+[Ejercicio 7](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%207%20tema%202.html) | -
+[Ejercicio 8](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%208%20tema%202.html) | -
+[Ejercicio 9](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%209%20tema%202.html) | -
 
