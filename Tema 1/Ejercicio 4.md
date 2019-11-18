@@ -1,6 +1,6 @@
 # Ejercicio 4 Lenguaje de Marcas:
 
-Markdown es un lenguaje de mrca liviano y muy sencillo.
+Markdown es un lenguaje de marca liviano y muy sencillo.
 En éste ejercicio haremos varias cabeceras, texto, una lista, un gráfico y una tabla. Aplicaremos **negrita** y *cursiva*.
 
 Lista de la compra(ordenada):
