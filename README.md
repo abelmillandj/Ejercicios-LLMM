@@ -11,9 +11,11 @@ Ejercicios | Descripción
 [Ejercicio 2](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%202.md) | Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto. La página debe presentar el aspecto mostrado a continuación
 [Ejercicio 3](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%203.md) | Usa el texto mostrado y dale el formato siguiendo las indicaciones:
 [Ejercicio 5](https://github.com/abelmillandj/Ejercicios-LLMM/tree/master/Tema%202/ejerciciosllmm/tema2/ejercicio5/misitio.com) | Crear página web con sus rutas.
-[Ejercicio 6](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%206%20tema%202.html) | -
-[Ejercicio 7](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%207%20tema%202.html) | -
-[Ejercicio 8](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%208%20tema%202.html) | -
-[Ejercicio 9](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%209%20tema%202.html) | -
-[Ejercicio 10](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2010%20tema%202.html) | -
-[Ejercicio 11](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2011%20tema%202.html) | -
+[Ejercicio 6](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%206%20tema%202.html) | Crea un página html como la mostrada a continuación:
+[Ejercicio 7](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%207%20tema%202.html) | Write a HTML page with the follow two levels nested list 
+[Ejercicio 8](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%208%20tema%202.html) | Añade los siguientes ítems
+[Ejercicio 9](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%209%20tema%202.html) | HTML Styles
+[Ejercicio 10](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2010%20tema%202.html) | HTML Borders
+[Ejercicio 11](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2011%20tema%202.html) | Margin y Padding
+[Ejercicio 12](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2012%20tema%202.html) | Crea la tabla mostrada a continuación. Usa cabeceras y los atributos necesarios.
+[Ejercicio 13](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2013%20tema%202.html) | Display your  timetable in the school. If you have the same subject 2 or 3 hours in a row then it should be combined in one cell. The break should be displayed in one row..
