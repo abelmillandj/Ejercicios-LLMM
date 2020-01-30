@@ -25,4 +25,5 @@ Ejercicios | Descripción
 [Ejercicio 17](https://github.com/abelmillandj/Ejercicios-LLMM/tree/master/Tema%202/Ejercicio%2017%20tema%202) |
 [Ejercicio 18](https://github.com/abelmillandj/Ejercicios-LLMM/tree/master/Tema%202/Ejercicio%2018%20tema%202) |
 [Ejercicio 19](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2019.html) |
-[Eejercicio 20] (https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2020.html)| 
+[Ejercicio 20](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2020.html) | 
+[Ejercicio 23](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/ejercicio%2023.html) | 
