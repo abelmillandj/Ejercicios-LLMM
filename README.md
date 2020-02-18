@@ -28,4 +28,6 @@ Ejercicios | Descripción
 [Ejercicio 20](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2020.html) | 
 [Ejercicio 23](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/ejercicio%2023.html) | 
 
-<strong> [TEMA 1]
+<strong> TEMA 2
+Ejercicios | Descripción
+------------ | -------------
