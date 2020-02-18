@@ -1,0 +1,129 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.center  {
+  margin: auto;
+  width: 90%;
+  border: 1px solid black;
+  overflow: auto;  
+}
+
+/* Style the header */
+.header {
+  color: blue;
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 10px;
+}
+
+.sectionheader {
+  text-align: left;
+  padding: 10px;
+  color: darkred;
+}
+
+.data {
+  text-align: left;
+  padding: 10px;
+}
+
+
+/* Create three unequal columns that floats next to each other */
+.column1 {
+  float: left;
+  padding: 10px;
+  width: 30%;
+  font-weight: bold;
+  font-family: arial;
+	font-size: 16px;
+}
+
+.column2 {
+  float: left;
+  padding: 10px;
+  width: 70%;
+  font-family: arial;
+	font-size: 16px;
+}
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column1, column2  {
+	width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+<div class="center">
+  <div class="header">
+     	 <h1>CURRICULUM</h1>
+    	<h1>VITAE</h1>
+  </div>
+  <div class="sectionheader">
+     	 <h1>PERSONAL DATA</h1>
+  </div>
+  <div  style= font-family:arial;font-size:16px class="data">
+	  <p><i>Name: </i>Azamat </p>
+	  <p><i>Surname: </i>Azamar </p>   	 
+    <p><i>Date of Birth: </i> 30.07.74</p>
+     	 <p><i>Place of birth: </i> Bishkek, Kyrgysztan&nbsp;</p>
+  </div>
+  <div class="sectionheader">
+     	 <h1>EDUCATION</h1>
+  </div>  
+  <div class="column1">
+	<p>2005-2009</p>
+  </div>
+  <div class="column2">
+	<p>Computer engineering in the <br>
+	  Technical University of Kyrgyzstan in <br>
+    Bishkek</p>
+  </div>
+  <div class="column1">
+	<p>2001-2005</p>
+  </div>
+  <div class="column2">
+	<p>High School ''Manas'' in Osh</p>
+  </div>
+  <div class="column1">
+	<p>1995-2001</p>
+  </div>
+  <div class="column2">
+	<p>Primary school</p>
+  </div>
+  <div class="sectionheader">
+     	 <h1>EDUCATION</h1>
+  </div>
+  <div class="column1">
+	<p>2007-2009</p>
+  </div>
+  <div class="column2">
+	<p>Computer teacher in High School in <br>
+	  Bishkek</p>
+  </div>
+  <div class="column1">
+	<p>2015-2017</p>
+  </div>
+  <div class="column2">
+	<p>Secretary of Department of Software <br>
+	  in Technical University of Kyrgyzstan <br>
+	  in Bishkek</p>
+  </div>  
+</div>
+</body>
+</html>
