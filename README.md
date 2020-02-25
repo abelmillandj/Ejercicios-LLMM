@@ -30,6 +30,6 @@ Ejercicios | Descripción
 
 <strong> Ejercicios CSS </strong>
 
-Ejercicios | Descripción
+Ejercicios | Enlace
 ------------ | -------------
-[Ejercicio 1](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicios%20CSS/ejerciciocss%201.html)  | Create a HTML document from the scratch with your CV. Create a CSS style sheet called MyStyle.CSS with the followings requirements.
+[Ejercicio 1]  | (https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicios%20CSS/ejerciciocss%201.html)
