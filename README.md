@@ -32,4 +32,4 @@ Ejercicios | Descripción
 
 Ejercicios | Enlace
 ------------ | -------------
-[Ejercicio 1]  | (https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicios%20CSS/ejerciciocss%201.html)
+Ejercicio 1  | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicios%20CSS/ejerciciocss%201.html)
