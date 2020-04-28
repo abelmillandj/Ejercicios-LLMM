@@ -37,8 +37,8 @@ Ejercicio 1  | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/blob/mas
 <strong> Ejercicios DTD </strong>
 Ejercicios | Enlace
 ------------ | -------------
-[Ejercicio 1](https://github.com/abelmillandj/Ejercicios-LLMM/tree/master/Tema%202/Ejercicio%2017%20tema%202) |
-[Ejercicio 2](https://github.com/abelmillandj/Ejercicios-LLMM/tree/master/Tema%202/Ejercicio%2018%20tema%202) |
-[Ejercicio 3](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2019.html) |
-[Ejercicio 4](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicio%2020.html) | 
-[Ejercicio 5](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/ejercicio%2023.html) | 
+Ejercicio 1 | [Enlace] (https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%203/Ejercicios%20DTD/ejercicio_1_abel_millan_rodriguez.xml)
+Ejercicio 2 | [Enlace] (https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%203/Ejercicios%20DTD/ejercicio_2_abel_millan_rodriguez.xml)
+Ejercicio 3 | [Enlace] (https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%203/Ejercicios%20DTD/ejercicio_3_abel_millan_rodriguez.xml)
+Ejercicio 4 | [Enlace] (https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%203/Ejercicios%20DTD/ejercicio_4_abel_millan_rodriguez.xml)
+Ejercicio 5 | [Enlace] (https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%203/Ejercicios%20DTD/ejercicio_5_abel_millan_rodriguez.xml)
