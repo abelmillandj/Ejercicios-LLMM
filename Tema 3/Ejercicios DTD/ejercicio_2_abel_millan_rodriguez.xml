@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda [
+<!ELEMENT agenda (contacto*)>
+<!ELEMENT contacto (nombres, dirección, tlf, emails, edad, estado, empresa)>
+<!ELEMENT nombres (nombre, apellidos)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT dirección (calle, numero, codigo_postal, ciudad)>
+<!ELEMENT calle (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT codigo_postal (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT tlf (#PCDATA)>
+<!ELEMENT emails (email*)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT edad (#PCDATA)>
+<!ELEMENT estado (estado_civil)>
+<!ELEMENT estado_civil (#PCDATA)>
+<!ELEMENT empresa (nombre_empresa, url_empresa)>
+<!ELEMENT nombre_empresa (#PCDATA)>
+<!ELEMENT url_empresa (#PCDATA)>
+]>
+<agenda>
+<contacto>
+<nombres>
+    <nombre>Abel</nombre>
+    <apellidos>Millán Rodríguez</apellidos></nombres>
+<dirección>
+    <calle>Barco</calle>
+    <numero>4</numero>
+    <codigo_postal>20101</codigo_postal>
+    <ciudad>Huelva</ciudad>
+</dirección>
+    <tlf>12345678</tlf>
+<emails>
+    <email>abelmillanrodriguez1@gmail.com</email>
+</emails>
+    <edad>19</edad>
+<estado>
+    <estado_civil>soltero</estado_civil>
+</estado>
+<empresa>
+    <nombre_empresa> Fresas Abel</nombre_empresa>
+    <url_empresa> www.fresasabel.com </url_empresa>
+</empresa>
+</contacto>
+</agenda>
