@@ -39,10 +39,16 @@ Ejercicio 4 | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/blob/mast
 Ejercicio 5 | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%202/Ejercicios%20CSS/ejercicio5css.html)
 
 <strong> Ejercicios DTD </strong>
-Ejercicios | Enlace
+Ejercicios | Enlace8
 ------------ | -------------
 Ejercicio 1 | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%203/Ejercicios%20DTD/ejercicio_1_abel_millan_rodriguez.xml)
 Ejercicio 2 | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%203/Ejercicios%20DTD/ejercicio_2_abel_millan_rodriguez.xml)
 Ejercicio 3 | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%203/Ejercicios%20DTD/ejercicio_3_abel_millan_rodriguez.xml)
 Ejercicio 4 | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%203/Ejercicios%20DTD/ejercicio_4_abel_millan_rodriguez.xml)
 Ejercicio 5 | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Tema%203/Ejercicios%20DTD/ejercicio_5_abel_millan_rodriguez.xml)
+
+<strong> Ejercicios Javascript </strong>
+Ejercicios | Enlace
+------------ | -------------
+Ejercicio 1 | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Javascript/ejercicio1_javascript_abel_millan_rodriguez.html)
+Ejercicio 2 | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Javascript/ejercicio2_javascript_abel_millan_rodriguez.html)
