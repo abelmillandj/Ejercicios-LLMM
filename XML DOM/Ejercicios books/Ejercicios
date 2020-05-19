@@ -1,4 +1,0 @@
-1. Título del primer libro:
-document.getElementsByTagName("title")[0].childNodes[0].nodeValue;
-
-2. Todos los títulos:
