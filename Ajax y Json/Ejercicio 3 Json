@@ -1,1 +1,32 @@
+1.
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>MOSTRAR LA LONGITUD DEL ARCHIVO</h2>
+
+<p id= "object"></p>
+<p id= "demo"></p>
+
+<script>
+var myObj, i, x = "";
+myObj = {
+cars: [  "BMW" ,  "Audi" , "Ferrari", "Citröen"],
+name: "Abel",
+age: 20
+};
+
+document.getElementById("object").innerHTML = myObj.name + ", " + myObj.age + " - " + myObj.cars.length;
+
+for ( i = 0; i < myObj.cars.length; i++ )
+    x += myObj.cars[i] + "<br>";
+
+document.getElementById("demo").innerHTML = x;
+
+</script>
+
+</body>
+</html>
+
 
