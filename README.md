@@ -63,3 +63,24 @@ Ejercicios books | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/tree
 Ejercicios | Enlace
 ------------ | -------------
 Ejercicio 1 | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/tree/master/RSS)
+
+<strong> Ejercicios Ajax y Json </strong>
+Ejercicios | Enlace
+------------ | -------------
+Ejercicio 1 Ajax | [Ejercicio 1 Ajax]()
+Ejercicio 2 Ajax | [Ejercicio 2 Ajax]()
+Ejercicio 3 Json | [Ejercicio 3 Json]()
+Ejercicio 4 Json | [Ejercicio 4 Json]()
+Ejercicio 5 Json | [Ejercicio 5 Json]()
+
+
+<strong> Ejercicios Xpath </strong>
+Ejercicios | Enlace
+------------ | -------------
+Ejercicio 1 | [Ejercicio 1]()
+Ejercicio 2 | [Ejercicio 2]()
+
+<strong> Ejercicios XSLT </strong>
+Ejercicios | Enlace
+------------ | -------------
+Ejercicio 1 | [Ejercicio 1]()
