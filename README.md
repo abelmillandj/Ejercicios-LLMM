@@ -67,7 +67,7 @@ Ejercicio 1 | [Enlace](https://github.com/abelmillandj/Ejercicios-LLMM/tree/mast
 <strong> Ejercicios Ajax y Json </strong>
 Ejercicios | Enlace
 ------------ | -------------
-Ejercicio 1 Ajax | [Ejercicio 1 Ajax]()
+Ejercicio 1 Ajax | [Ejercicio 1 Ajax](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Ajax%20y%20Json/Ejercicio%201%20Ajax)
 Ejercicio 2 Ajax | [Ejercicio 2 Ajax]()
 Ejercicio 3 Json | [Ejercicio 3 Json](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Ajax%20y%20Json/Ejercicio%203%20Json)
 Ejercicio 4 Json | [Ejercicio 4 Json](https://github.com/abelmillandj/Ejercicios-LLMM/blob/master/Ajax%20y%20Json/Ejercicio%204%20Json)
