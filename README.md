@@ -77,8 +77,7 @@ Ejercicio 5 Json | [Ejercicio 5 Json](https://github.com/abelmillandj/Ejercicios
 <strong> Ejercicios Xpath </strong>
 Ejercicios | Enlace
 ------------ | -------------
-Ejercicio 1 | [Ejercicio 1]()
-Ejercicio 2 | [Ejercicio 2]()
+Ejercicios | [Ejercicios](https://github.com/abelmillandj/Ejercicios-LLMM/tree/master/XPath)
 
 <strong> Ejercicios XSLT </strong>
 Ejercicios | Enlace
