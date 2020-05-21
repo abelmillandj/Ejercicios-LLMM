@@ -82,4 +82,4 @@ Ejercicios | [Ejercicios](https://github.com/abelmillandj/Ejercicios-LLMM/tree/m
 <strong> Ejercicios XSLT </strong>
 Ejercicios | Enlace
 ------------ | -------------
-Ejercicio 1 | [Ejercicio 1]()
+Ejercicio 1 | [Ejercicio 1](https://github.com/abelmillandj/Ejercicios-LLMM/tree/master/XSLT)
